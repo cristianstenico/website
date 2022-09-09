@@ -19,5 +19,5 @@ weight = 2
 
 [[menu.nav]]
 name = "Bookmarks"
-url = "/page/Bookmarks"
+url = "/bookmark"
 weight = 3
