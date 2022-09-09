@@ -2,12 +2,22 @@ baseurl = "/"
 languageCode = "en-us"
 languageLang = "en"
 title = "Homepage"
-
-# RSS, categories and tags disabled for an easy start
-# See configuration options for more details: 
-# https://gohugo.io/getting-started/configuration/#toml-configuration
 disableKinds = ["RSS", "taxonomy", "taxonomyTerm"]
 theme = ["github.com/zwbetz-gh/cupper-hugo-theme"]
 [module]
 [[module.imports]]
   path = 'github.com/zwbetz-gh/cupper-hugo-theme'
+[[menu.nav]]
+name = "Home"
+url = "/"
+weight = 1
+
+[[menu.nav]]
+name = "Blog"
+url = "/post/"
+weight = 2
+
+[[menu.nav]]
+name = "Bookmarks"
+url = "/page/Bookmarks"
+weight = 3
