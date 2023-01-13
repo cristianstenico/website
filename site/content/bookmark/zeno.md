@@ -10,3 +10,4 @@ date: 2022-09-08T15:04:10.000Z
 3. [Diete scuola](https://www.dietescuole.it/it)
 3. [Trasporti](https://trasportoscolastico.tn.it/)
 4. [Comunicazioni istituto](https://www.trento7.it/index.php)
+5. [Euregio Family Pass](https://fcard.trentinofamiglia.it/)
